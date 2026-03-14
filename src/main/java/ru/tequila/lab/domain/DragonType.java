@@ -1,5 +1,5 @@
-package ru.tequila.lab.domain;
+package domain;
 
- public enum DragonType {
-        WATER, UNDERGROUND, AIR, FIRE
-    }
+public enum DragonType {
+    WATER, UNDERGROUND, AIR, FIRE
+}
